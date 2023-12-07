@@ -5,4 +5,3 @@
 ```py
 python genFlashCommand.py <PIT FILE>
   ```
-<p>For detailed instructions on how to use it, check out the <a href="https://medium.com">tutorial</a></p>
