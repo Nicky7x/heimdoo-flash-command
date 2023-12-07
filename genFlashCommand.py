@@ -48,7 +48,7 @@ for i in partitions:
 fullString=""
 
 for i in partitions2Flash:
-    fullString+=f" --{i.name} /storage/emulated/0/Android/data/dev.rohitverma882.heimdoo/cache/cached_imgs{i.filename}"
+    fullString+=f" --{i.name} /storage/emulated/0/Android/data/dev.rohitverma882.heimdoo/cache/cached_imgs/{i.filename}"
 
 print("\nYou should run this command to flash on your Samsung device: ")
 print("\nheimdall flash" + fullString)
