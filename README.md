@@ -7,7 +7,7 @@ python genFlashCommand.py <PIT FILE>
   ```
 <h4>💭Questions? Find me on Discord</h4>
 
-<a href="discordapp.com/users/951263301147435029" target="_blank">
+<a href="https://discordapp.com/users/951263301147435029" target="_blank">
 
  <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="my discord profile" max-height="25em" max-width="80px"/>
  
